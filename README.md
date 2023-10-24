@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-    <img alt="ACM at SJSU React.js with Gatsby Workshop" src="acm-sjsu-logo.png" width="60" />
+    <img alt="ACM at SJSU React.js with Gatsby Workshop" src="acm-sjsu-logo.png" width="400" />
 </p>
 <h1 align="center">
   ACM at SJSU React.js with Gatsby Workshop
